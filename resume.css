@@ -40,7 +40,7 @@ a { color: #1919FF }
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
 ul { line-height: 25px; }
-ul li ul { list-style-type: square; padding-left: 35px; line-height: 25px; }
+ul ul { list-style-type: square; padding-left: 35px; line-height: 25px; }
 li { list-style-type: disc; line-height: 25px; }
 p.enlarge { font-size: 144%; padding-right: 6.5em; line-height: 25px; }
 p.enlarge span { color: #000 }
