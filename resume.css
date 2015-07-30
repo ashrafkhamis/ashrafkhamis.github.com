@@ -36,7 +36,7 @@ h2 { font-size: 130%; }
 h3, h4 { font-size: 110%; font-weight: 500; line-height: 20px; }
 h1, h2, h3, h4 { color: #333; }
 p { font-size: 100%; line-height: 20px; padding-right: 3em; }
-a { color: #1919FF; }
+a.href { color: #1919FF; }
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
 ul { line-height: 25px; }
