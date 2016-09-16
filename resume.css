@@ -34,7 +34,7 @@ ul { padding-left: 35px; line-height: 25px; }
 li { list-style-type: disc; line-height: 25px; }
 p.enlarge { font-size: 144%; padding-right: 6.5em; line-height: 25px; }
 .caps { font-size: 90%; text-transform: uppercase; }
-.photo { margin-top: 70px; }
+.photo { margin-top: 50px; }
 .photo img { width: 90%; }
 .first h2 { font-weight: 500; color: #198D19; text-transform: uppercase; }
 h2.nocaps { font-size: 130%; text-transform: capitalize; }
