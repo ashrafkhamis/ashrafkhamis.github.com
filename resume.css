@@ -34,12 +34,13 @@ ul { padding-left: 35px; line-height: 25px; }
 li { list-style-type: disc; line-height: 25px; }
 p.enlarge { font-size: 144%; padding-right: 6.5em; line-height: 25px; }
 .caps { font-size: 90%; text-transform: uppercase; }
-.photo { margin-top: 50px; }
-.photo img { width: 90%; }
+.photo { margin-top: 25px; }
+.photo img { width: 85%; }
 .first h2 { font-weight: 500; color: #198D19; text-transform: uppercase; }
-h2.nocaps { font-size: 130%; text-transform: capitalize; }
+h2.nocaps { font-size: 130%; text-transform: none; width: 400px; word-wrap: break-word; }
 h2.ipa { font-size: 130%; text-transform: lowercase; }
 .last { border-bottom: 0; }
+br { line-height: 25px; }
 
 /* //-- section styles -- */
 
@@ -63,5 +64,5 @@ a#pdf:hover { background: #222; }
 
 /* --// override to force 1/8th width grids -- */
 
-.yui-gf .yui-u{width:80.2%; }
+.yui-gf .yui-u{width:80.7%; }
 .yui-gf div.first{width:12.3%; }
