@@ -37,7 +37,7 @@ p.enlarge { font-size: 144%; padding-right: 6.5em; line-height: 25px; }
 .photo { margin-top: 17px; }
 .photo img { width: 80%; }
 .first h2 { font-weight: 500; color: #198D19; text-transform: uppercase; }
-h2.nocaps { font-size: 130%; text-transform: none; width: 365px; word-wrap: break-word; }
+h2.nocaps { font-size: 130%; text-transform: none; width: 400px; word-wrap: break-word; }
 h2.ipa { font-size: 130%; text-transform: lowercase; }
 .last { border-bottom: 0; }
 br { line-height: 25px; }
