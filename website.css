@@ -13,7 +13,7 @@ body { font-family: Georgia; color: #444; }
 /* //-- header, body, footer -- */
 
 #hd { margin: 2.5em 0 3em 0; padding-bottom: 1.5em; border-bottom: 1px solid #ccc; }
-#hd h2 { letter-spacing: 1.5px; }
+#hd h2 { letter-spacing: 1px; }
 #bd, #ft { margin-bottom: 2em; }
 
 /* //-- footer -- */
@@ -23,7 +23,7 @@ body { font-family: Georgia; color: #444; }
 
 /* //-- core typography and style -- */
 
-#hd h1 { font-size: 30px; font-weight: 600; letter-spacing: 3px; padding-bottom: 30px; color: #198D19; }
+#hd h1 { font-size: 30px; font-weight: 600; letter-spacing: 1px; padding-bottom: 20px; color: #198D19; }
 h2 { color: #198D19; }
 h2, h3, h4 { font-size: 110%; font-weight: 500; line-height: 20px; }
 h1, h3, h4 { color: #333; }
@@ -38,7 +38,7 @@ p.enlarge { font-size: 144%; padding-right: 6.5em; line-height: 25px; }
 .photo { margin-left: 60px; }
 .photo img { width: 70%; }
 .first h2 { font-weight: 500; color: #198D19; text-transform: uppercase; }
-h2.nocaps { font-size: 130%; width: 400px; padding-bottom: 30px; text-transform: none; }
+h2.nocaps { font-size: 130%; width: 400px; padding-bottom: 40px; text-transform: none; }
 .last { border-bottom: 0; }
 br { line-height: 25px; }
 
