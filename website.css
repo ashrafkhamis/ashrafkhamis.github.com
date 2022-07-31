@@ -13,7 +13,7 @@ body { font-family: Georgia; color: #444; }
 /* //-- header, body, footer -- */
 
 #hd { margin: 2.5em 0 3em 0; padding-bottom: 1.5em; border-bottom: 1px solid #ccc; }
-#hd h2 { letter-spacing: 2px; }
+#hd h2 { letter-spacing: 1.5px; }
 #bd, #ft { margin-bottom: 2em; }
 
 /* //-- footer -- */
@@ -23,7 +23,7 @@ body { font-family: Georgia; color: #444; }
 
 /* //-- core typography and style -- */
 
-#hd h1 { font-size: 31px; font-weight: 600; letter-spacing: 2px; color: #198D19; }
+#hd h1 { font-size: 30px; font-weight: 600; letter-spacing: 3px; padding-bottom: 30px; color: #198D19; }
 h2 { color: #198D19; }
 h2, h3, h4 { font-size: 110%; font-weight: 500; line-height: 20px; }
 h1, h3, h4 { color: #333; }
@@ -35,11 +35,10 @@ ul { padding-left: 35px; line-height: 25px; }
 li { list-style-type: disc; line-height: 25px; }
 p.enlarge { font-size: 144%; padding-right: 6.5em; line-height: 25px; }
 .caps { font-size: 90%; text-transform: uppercase; }
-.photo { margin-top: 15px; margin-left: 35px; }
+.photo { margin-left: 60px; }
 .photo img { width: 70%; }
 .first h2 { font-weight: 500; color: #198D19; text-transform: uppercase; }
-h2.nocaps { font-size: 130%; text-transform: none; width: 400px; word-wrap: break-word; }
-h2.ipa { font-size: 130%; text-transform: lowercase; }
+h2.nocaps { font-size: 130%; width: 400px; padding-bottom: 30px; text-transform: none; }
 .last { border-bottom: 0; }
 br { line-height: 25px; }
 
@@ -65,5 +64,5 @@ a#pdf:hover { background: #222; }
 
 /* --// override to force 1/8th width grids -- */
 
-.yui-gf .yui-u{width:80.7%; }
-.yui-gf div.first{width:12.3%; }
+.yui-gf .yui-u { width:80%; }
+.yui-gf div.first { width:15%; }
