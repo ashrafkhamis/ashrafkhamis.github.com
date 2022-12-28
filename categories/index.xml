@@ -1,8 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - Ashraf Khamis</title>
+        <title>Categories - Category - Ashraf Khamis | Senior Technical Writer at GitLab</title>
         <link>https://www.ashrafkhamis.com/categories/</link>
-        <description>Categories - Category - Ashraf Khamis</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>ashraf.khamis@gmail.com (Ashraf Khamis)</managingEditor>
-            <webMaster>ashraf.khamis@gmail.com (Ashraf Khamis)</webMaster><atom:link href="https://www.ashrafkhamis.com/categories/" rel="self" type="application/rss+xml" /></channel>
+        <description>Categories - Category - Ashraf Khamis | Senior Technical Writer at GitLab</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://www.ashrafkhamis.com/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
